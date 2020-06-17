@@ -1,0 +1,25 @@
+#d_content_inner .vui-button, #d_content_inner .vui-button:hover, #d_content_inner .vui-button:focus, #d_content_inner .vui-button:visited, #d_content_inner .vui-button.vui-disabled:focus {
+	background:transparent;
+	box-shadow: none !important;
+	text-decoration:none !important;
+	filter:none !important;
+}
+
+ 
+table.d_g {
+	background:transparent !important; 
+
+	background-color: none !important; 
+
+}
+
+table.d_gl tr th.d_hch{
+	background:transparent !important; 
+	background-color: none !important; 
+}
+
+table.d_gl tr.d_ggl1, table.d_gn tr.d_ggl1 {
+    background-color: none !important;
+	background: transparent !important;
+}
+
